@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1000px" height="200px" src="https://unsplash.com/photos/WiONHd_zYI4" alt="hello">
+</p>
+
 - 👋 Hi, I’m @Hat52
 - 🌱 I’m currently working as MERN stack developer
 - 📫 How to reach me tanolihamzaali@gmail.com
