@@ -41,6 +41,13 @@ A full stack developer from Pakistan.
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 ![Ansible](https://img.shields.io/badge/Ansible%20-%23430098.svg?logo=ansible&logoColor=red)
 
+### 📙 Recent Blogs on Hashnode
+<!-- BLOG-POST-LIST:START -->
+- [Protected Routing In React](https://iblog.hashnode.dev/protected-routes-in-react-js)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### Statistics
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Hat52&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
