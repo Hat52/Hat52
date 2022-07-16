@@ -44,6 +44,7 @@ A full stack developer from Pakistan.
 ### 📙 Recent Blogs on Hashnode
 <!-- BLOG-POST-LIST:START -->
 - [Protected Routing In React](https://iblog.hashnode.dev/protected-routes-in-react-js)
+- [JavaScript's Array Methods](https://iblog.hashnode.dev/javascripts-array-methods)
 <!-- BLOG-POST-LIST:END -->
 
 ---
