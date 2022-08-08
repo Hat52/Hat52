@@ -46,6 +46,7 @@ A full stack developer from Pakistan.
 - [Protected Routing In React](https://hat52.hashnode.dev/protected-routes-in-react-js)
 - [JavaScript's Array Methods](https://hat52.hashnode.dev/javascripts-array-methods)
 - [Pure Functions](https://hat52.hashnode.dev/pure-function-javascript)
+- [useMemo hook React.js](https://hat52.hashnode.dev/usememo-hook-reactjs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
