@@ -1,7 +1,8 @@
 
 ## Hi, I am Hamza Ali! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-A full stack developer from Pakistan.
+
+Full stack developer from Pakistan.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hamza%20Ali-blue?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/hamza-ali-8b79171aa)
 [![Instagram Badge](https://img.shields.io/badge/-tanoli.hamza.ali-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tanoli.hamza.ali/)
